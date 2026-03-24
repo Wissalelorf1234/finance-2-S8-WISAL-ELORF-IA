@@ -1,3 +1,9 @@
+![WhatsApp Image 2026-03-23 at 1 21 00 PM](https://github.com/user-attachments/assets/10b914b5-e7e2-496d-b2f9-66383d40a9fb)
+
+
+
+
+
 # Prédiction de la Volatilité des Actions Cotées
 ## Bourse de Casablanca (BVC)
 **Variable cible : Volatilité Réalisée sur 30 Jours**
