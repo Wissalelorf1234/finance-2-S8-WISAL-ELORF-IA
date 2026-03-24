@@ -317,3 +317,6 @@ Ce rapport a présenté un cadre complet pour la prédiction de la volatilité r
 
 ---
 *Bourse de Casablanca — Analyse Quantitative des Risques*
+
+<img width="654" height="390" alt="image" src="https://github.com/user-attachments/assets/def3a759-d056-4ef1-b772-3b97d8e1fd08" />
+
