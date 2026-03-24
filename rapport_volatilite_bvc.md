@@ -320,3 +320,7 @@ Ce rapport a présenté un cadre complet pour la prédiction de la volatilité r
 
 <img width="654" height="390" alt="image" src="https://github.com/user-attachments/assets/def3a759-d056-4ef1-b772-3b97d8e1fd08" />
 
+<img width="654" height="330" alt="image" src="https://github.com/user-attachments/assets/67d51646-cf44-4220-a870-89c70b5b72d0" />
+
+
+<img width="654" height="390" alt="image" src="https://github.com/user-attachments/assets/83f24ea1-9aa3-4984-8de9-ecab94e21e0f" />
